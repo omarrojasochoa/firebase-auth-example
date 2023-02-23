@@ -1,0 +1,23 @@
+{
+  "name": "firebase-auth-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarrojasochoa/firebase-auth-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarrojasochoa/firebase-auth-example/issues"
+  },
+  "homepage": "https://github.com/omarrojasochoa/firebase-auth-example#readme",
+  "dependencies": {
+    "firebase-tools": "^11.11.0"
+  }
+}
